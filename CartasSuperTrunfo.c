@@ -21,7 +21,7 @@ int main() {
     //Iniciamos o código com a declaração das variáveis, definindo o tipo de cada uma.
     char estadoC1, estadoC2;
     char codigo_cidadeC1[10], codigo_cidadeC2[10];
-    char nome_cidadeC1[15], nome_cidadeC2[15];
+    char nome_cidadeC1[20], nome_cidadeC2[20];
     int populacaoC1, populacaoC2;
     float area_cidadeC1, area_cidadeC2;
     float pibC1, pibC2;
